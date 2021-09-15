@@ -1,12 +1,12 @@
 ### Hi there 👋
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Osakauss kernel](https://github.com/Osakuass/Osakuass)
 - 🌱 I’m currently learning Os development
 - 🤔 I’m looking for help with [Osakauss kernel](https://github.com/Osakuass/Osakuass)
 - ⚡ Fun fact: C is a interesting programming language
-
+-->
 
 ### Languages and Tools:
 
