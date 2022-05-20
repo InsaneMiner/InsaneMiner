@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 <!--
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on [The Nash Compiler](https://github.com/nash-project/nash)
 - 🌱 I’m currently learning how to make a programming language
 - 🤔 I’m looking for help with [the nash compiler](https://github.com/nash-project/nash)
