@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on [The Nash Compiler](https://github.com/nash-project/nash)
 - 🌱 I’m currently learning how to make a programming language
 - 🤔 I’m looking for help with [the nash compiler](https://github.com/nash-project/nash)
 - ⚡ Fun fact: C is an interesting programming language, but c++ is chad.
-
+-->
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,js,php,linux,mysql,py,wordpress)](https://skillicons.dev)
 
